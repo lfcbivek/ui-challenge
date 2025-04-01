@@ -1,0 +1,19 @@
+.App {
+  position: absolute;
+  width: 370px;
+  height: 326px;
+  border: 2px solid #EEEEEE;
+  margin: 85px 104px;
+  border-radius: 6px;
+  padding-top: 10px;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+
+hr {
+  width: 340px;
+  border-bottom: 0px;
+}

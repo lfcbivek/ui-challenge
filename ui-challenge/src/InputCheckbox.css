@@ -1,0 +1,17 @@
+.input-checkbox {
+    width: 340px;
+    height: 26px;
+    padding: 8px 22px 8px 22px;
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+input[type="checkbox"] {
+    transform: scale(2); /* Scale the checkbox */
+}
+
+
+/* Property 1=Variant8 */
